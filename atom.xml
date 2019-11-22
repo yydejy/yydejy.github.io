@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://yydejy.github.io</id>
+    <title>我是米娅酱</title>
+    <updated>2019-11-22T10:15:37.613Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://yydejy.github.io"/>
+    <link rel="self" href="http://yydejy.github.io/atom.xml"/>
+    <subtitle>记录我每天的吃吃喝喝</subtitle>
+    <logo>http://yydejy.github.io/images/avatar.png</logo>
+    <icon>http://yydejy.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2019, 我是米娅酱</rights>
+</feed>
